@@ -1,2 +1,3 @@
-# databricks-ds-portfolio
-Applied Data Science portfolio: SQL analytics, ML workflows, and predictive maintenance on Databricks.
+# Applied Data Science & Analytics Portfolio
+
+A collection of end-to-end data science workflows, advanced SQL analytics, and machine learning pipelines built with Python, SQL, MLflow, and Databricks.
